@@ -18,7 +18,7 @@ int main()
         printf("please try again:");
         scanf("%d", &age);
         }
-        printf("you can no longer verify age")
+        printf("you can no longer verify age");
     }
     return 0;
 }

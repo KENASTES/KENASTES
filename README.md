@@ -1,5 +1,5 @@
 HI, my name is kaine
-i newly here
+I'm the Full-stack Developer at KMITL
 
 contact
 Discord : luvyoumylilbirb

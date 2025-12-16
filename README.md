@@ -6,4 +6,3 @@ I welcome you here
 
 contact
 Discord : luvyoumylilbirb
-"May harmonie has not for me in this world"

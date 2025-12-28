@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h3 align="center">HI, I'm Panya Triprom<br>just called me kaine<br><br>I welcome you here</h3>
+<h3 align="center">HI, I'm Panya Triprom<br>just called me ken<br><br>I welcome you here</h3>
 
 ###
 

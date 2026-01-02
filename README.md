@@ -31,7 +31,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="raspberrypi logo"  />
   <img width="12" />
-  <img src="https://www.svgrepo.com/show/508968/solidworks.svg" height="40" alt="vscode logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/SolidWorks_Logo.svg/1280px-SolidWorks_Logo.svg.png" height="40" alt="vscode logo"  />
+  <img width="12" />
 </div>
 
 ###

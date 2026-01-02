@@ -23,7 +23,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-plain-wordmark.svg" height="40" alt="debian logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" height="40" alt="embeddedc logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/cplusplus/cplusplus-original.svg" height="40" alt="embeddedc logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
   <img width="12" />

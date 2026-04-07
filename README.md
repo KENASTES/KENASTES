@@ -11,7 +11,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KENASTES&layout=compact&theme=vision-vibrant&hide_border=true" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KENASTES&show_icons=true&theme=vision-vibrant&rank_icon=github&hide_border=true" alt="Ken's GitHub Stats" />
 </div>
 
 ###

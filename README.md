@@ -9,9 +9,10 @@ C:\Users\Ken> whoami
 Panya Triprom (Ken)
 
 C:\Users\Ken> cat current_status.txt
-I'm the Full-stack Developer Currently studying at KMITL 🎓<br><br>as a Bachelor's degree of Industrial physics and Iot and information Engineering 📔
-I good at Tech such as ⚙️Mechanic  ⚡Electronic and 💻Programming And mostly take the low-level tech role and
-this github i'll share the Work, Project, and my personal experience with you 😊
+I'm the Full-stack Developer Currently studying at KMITL 🎓<br><br>as a Bachelor's degree of Industrial physics
+and Iot and information Engineering 📔 I good at Tech such as ⚙️Mechanic  ⚡Electronic and 💻Programming
+And mostly take the low-level tech role andthis github i'll share the Work, Project, and
+my personal experience with you 😊
 
 C:\Users\Ken> ./show_skills.sh
 [+] Hardware  : Arduino, ESP32, PLC, Raspberry Pi

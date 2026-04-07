@@ -10,7 +10,7 @@
 
 <br clear="both">
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KENASTES&theme=tokyonight&hide_border=true&area=true" alt="Activity Graph" />
+  <img width="600" src="https://github-readme-activity-graph.vercel.app/graph?username=KENASTES&bg_color=0D1117&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=333333&hide_border=true&custom_title=Activity" alt="Activity Graph Black & White" />
 </div>
 <br clear="both">
 

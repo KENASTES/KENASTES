@@ -9,10 +9,10 @@
 ###
 
 <br clear="both">
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KENASTES&show_icons=true&theme=vision-vibrant&rank_icon=github&hide_border=true" alt="Ken's GitHub Stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KENASTES&theme=tokyonight&hide_border=true&area=true" alt="Activity Graph" />
 </div>
+<br clear="both">
 
 ###
 

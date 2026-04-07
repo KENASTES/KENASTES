@@ -8,12 +8,20 @@
 
 ###
 
-<br clear="both">
-<div align="center">
-  <img width="600" src="https://github-readme-activity-graph.vercel.app/graph?username=KENASTES&bg_color=0D1117&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=333333&hide_border=true&custom_title=Activity" alt="Activity Graph Black & White" />
-</div>
-<br clear="both">
+```console
+C:\Users\Ken> whoami
+Panya Triprom (Ken)
 
+C:\Users\Ken> cat current_status.txt
+🎓 Full-stack Developer & IoT Enthusiast
+📔 Studying Industrial Physics, IoT and Information Engineering @ KMITL
+⚙️ Focusing on Mechanics, Electronics, and Low-Level Programming
+
+C:\Users\Ken> ./show_skills.sh
+[+] Hardware  : Arduino, ESP32, PLC, Raspberry Pi
+[+] Software  : C/C++, C#, JavaScript, Python
+[+] Tools     : Git, Unity, Kali Linux
+```
 ###
 
 <br clear="both">
